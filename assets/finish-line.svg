@@ -1,8 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="100" viewBox="0 0 1280 100" role="img" aria-labelledby="title">
-  <title id="title">Built with curiosity. Driven by progress. Asel / 61.</title>
-  <rect width="1280" height="100" rx="12" fill="#0d1117"/>
-  <path d="M0 0h7v100H0z" fill="#c8ff00"/>
-  <text x="34" y="45" fill="#f5f7f8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="3">BUILT WITH CURIOSITY. DRIVEN BY PROGRESS.</text>
-  <text x="35" y="72" fill="#8793a0" font-family="Consolas,monospace" font-size="12" letter-spacing="2">EVERY COMMIT IS ANOTHER LAP.</text>
-  <text x="1080" y="61" fill="#c8ff00" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="900" font-style="italic">ASEL / 61</text>
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="110" viewBox="0 0 1280 110" role="img" aria-labelledby="title">
+<title id="title">Built with curiosity. Driven by progress. Asel / 61.</title>
+<defs><linearGradient id="bg"><stop stop-color="#14223b"/><stop offset="1" stop-color="#090f1e"/></linearGradient><linearGradient id="wine"><stop stop-color="#51182e"/><stop offset="1" stop-color="#943653"/></linearGradient></defs>
+<rect width="1280" height="110" rx="12" fill="url(#bg)"/>
+<path d="M1030 0h140l-60 110H970z" fill="url(#wine)"/>
+<path d="M1184 0h3l-60 110h-3z" fill="#bc8b9e"/>
+<rect width="5" height="110" fill="#963750"/>
+<text x="34" y="46" fill="#e2e8f1" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="3">BUILT WITH CURIOSITY. DRIVEN BY PROGRESS.</text>
+<text x="35" y="76" fill="#a18b9e" font-family="Consolas,monospace" font-size="12" letter-spacing="3">EVERY COMMIT IS ANOTHER LAP.</text>
+<text x="1223" y="69" text-anchor="end" fill="#ead9e0" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="900" font-style="italic">ASEL / 61</text>
 </svg>
