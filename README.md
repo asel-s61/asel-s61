@@ -2,7 +2,9 @@
   <img src="./assets/grid-banner.svg" alt="ASEL 61 — Midnight Club. Custom Bordeaux GT race car on a midnight blue motorsport poster." width="100%" />
 </p>
 
-<p align="center"><strong>Asel.</strong> DHBW student. Into code &amp; motorsport.<br /><sub>Currently learning C &amp; Java. Building things and figuring them out.</sub></p>
+<p>
+  <img src="./assets/terminal.svg" alt="Animated pit wall terminal: Asel, DHBW student, learning C and Java. Code, test, learn, repeat." width="100%" />
+</p>
 
 <br />
 
@@ -15,3 +17,9 @@
 <p align="center"><sub>C &nbsp; / &nbsp; JAVA &nbsp; / &nbsp; GIT &nbsp; / &nbsp; GITHUB</sub></p>
 
 <p align="center"><a href="https://github.com/asel-s61?tab=repositories"><strong>Explore the garage ↗</strong></a></p>
+
+<br />
+
+<p>
+  <img src="./assets/telemetry.svg" alt="GitHub telemetry: contributions, commits, pull requests, public repositories, stars, languages and contribution heatmap. Updated daily." width="100%" />
+</p>
