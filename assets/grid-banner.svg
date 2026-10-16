@@ -1,23 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title desc">
-<title id="title">Asel — student, developer, motorsport enthusiast.</title>
-<desc id="desc">Minimal midnight blue composition with oversized ivory Asel lettering, a Bordeaux racing stripe and subtle outlined number 61.</desc>
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="680" viewBox="0 0 1440 680" role="img" aria-labelledby="title desc">
+<title id="title">ASEL 61 / Midnight Club</title><desc id="desc">Bordeaux and midnight blue motorsport poster featuring a custom illustrated GT race car, oversized lettering, racing number 61 and track graphics.</desc>
 <defs>
- <linearGradient id="bg" x2="1" y2=".7"><stop stop-color="#111c30"/><stop offset="1" stop-color="#0b111d"/></linearGradient>
- <linearGradient id="stripe" x2="1" y2="1"><stop stop-color="#87334d"/><stop offset="1" stop-color="#521d32"/></linearGradient>
- <clipPath id="clip"><rect width="1440" height="440" rx="16"/></clipPath>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#172a49"/><stop offset="1" stop-color="#070d19"/></linearGradient>
+<linearGradient id="red" x2=".7" y2="1"><stop stop-color="#c36683"/><stop offset=".35" stop-color="#8b2d50"/><stop offset="1" stop-color="#3b1028"/></linearGradient>
+<linearGradient id="body" x2=".3" y2="1"><stop stop-color="#b74e73"/><stop offset=".35" stop-color="#70213f"/><stop offset=".7" stop-color="#47152d"/><stop offset="1" stop-color="#190e20"/></linearGradient>
+<linearGradient id="glass" x2="1" y2="1"><stop stop-color="#597794"/><stop offset=".5" stop-color="#172b45"/><stop offset="1" stop-color="#090e1b"/></linearGradient>
+<radialGradient id="wheel"><stop stop-color="#24344b"/><stop offset=".65" stop-color="#0b1020"/><stop offset=".7" stop-color="#b0b6c4"/><stop offset=".76" stop-color="#333b4d"/><stop offset=".8" stop-color="#090b13"/><stop offset="1" stop-color="#04070e"/></radialGradient>
+<pattern id="grid" width="55" height="55" patternUnits="userSpaceOnUse"><path d="M55 0H0V55" fill="none" stroke="#b1c4df" stroke-opacity=".055"/></pattern>
+<pattern id="check" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M0 0h12v12H0zM12 12h12v12H12z" fill="#d3c7d0"/></pattern>
+<clipPath id="frame"><rect width="1440" height="680" rx="20"/></clipPath>
 </defs>
-<g clip-path="url(#clip)">
- <rect width="1440" height="440" fill="url(#bg)"/>
- <path d="M1130-60h175L970 500H795z" fill="url(#stripe)"/>
- <path d="M1327-60h2L994 500h-2z" fill="#bd899b" opacity=".6"/>
- <text x="1035" y="333" fill="none" stroke="#8390a7" stroke-opacity=".23" stroke-width="1.5" font-family="Arial,Helvetica,sans-serif" font-size="270" font-weight="700" font-style="italic" letter-spacing="-24">61</text>
- <text x="66" y="61" fill="#b9a3af" font-family="Consolas,monospace" font-size="12" letter-spacing="3">ASEL-S61</text>
- <text x="1373" y="61" text-anchor="end" fill="#7f8ba0" font-family="Consolas,monospace" font-size="12" letter-spacing="3">PERSONAL SPACE / 061</text>
- <text x="56" y="286" fill="#efede9" font-family="Arial,Helvetica,sans-serif" font-size="205" font-weight="700" letter-spacing="-13">asel<tspan fill="#b66b83">.</tspan></text>
- <text x="69" y="342" fill="#a3adbd" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing="1">A little code. A little motorsport. A lot of curiosity.</text>
- <path d="M68 390h1304" stroke="#566077" stroke-opacity=".3"/>
- <circle cx="73" cy="415" r="3" fill="#bc7790"/>
- <text x="88" y="419" fill="#8693a7" font-family="Consolas,monospace" font-size="11" letter-spacing="2">LEARNING BY BUILDING</text>
- <text x="1372" y="419" text-anchor="end" fill="#8693a7" font-family="Consolas,monospace" font-size="11" letter-spacing="2">DHBW / STUDENT</text>
+<g clip-path="url(#frame)">
+<rect width="1440" height="680" fill="url(#bg)"/><rect width="1440" height="680" fill="url(#grid)"/>
+<path d="M1070-100h390L945 780H555z" fill="url(#red)" opacity=".65"/>
+<path d="M1035-100h8L528 780h-8zM1483-100h3L971 780h-3z" fill="#d58ca3" opacity=".7"/>
+<text x="-12" y="330" fill="#eee9e5" font-family="Arial,Helvetica,sans-serif" font-size="323" font-weight="900" font-style="italic" letter-spacing="-23">ASEL</text>
+<text x="974" y="325" fill="none" stroke="#e1bdcb" stroke-width="2" stroke-opacity=".7" font-family="Arial,Helvetica,sans-serif" font-size="280" font-weight="900" font-style="italic" letter-spacing="-25">61</text>
+<path d="M46 47h30" stroke="#ca7391" stroke-width="5"/><text x="90" y="52" fill="#e2d0da" font-family="Consolas,monospace" font-size="13" letter-spacing="4">MIDNIGHT CLUB</text>
+<text x="1392" y="52" text-anchor="end" fill="#a9b6ca" font-family="Consolas,monospace" font-size="12" letter-spacing="3">CODE / CULTURE / MOTORSPORT</text>
+<text x="48" y="101" fill="#71829e" font-family="Consolas,monospace" font-size="11" letter-spacing="3">PERSONAL GARAGE — ASEL-S61</text>
+<path d="M35 560 1400 488M-40 587 1430 510M-40 620 1450 544" stroke="#8794af" stroke-opacity=".14"/>
+<ellipse cx="761" cy="535" rx="543" ry="42" fill="#030712" opacity=".8"/>
+<!-- Hand-drawn GT silhouette, three-quarter side view. -->
+<g>
+<path d="m985 334 288-22 16 11-300 30z" fill="#111727" stroke="#71809a" stroke-width="2"/>
+<path d="m1041 333 8 64h13l-5-66m169-10 3 55h13l-3-57" fill="#172238"/>
+<path d="m248 438 115-41 136-17 118-77q18-12 45-12h205q39 0 69 20l103 67 160 20 54 48-18 53-111 24-739 17-152-31-22-36z" fill="url(#body)" stroke="#bc6b89" stroke-width="2"/>
+<path d="m498 382 129-72h237q23 0 46 14l90 58z" fill="url(#glass)" stroke="#97738c" stroke-width="2"/>
+<path d="m702 308-23 73m173-73 38 74" stroke="#35162c" stroke-width="12"/>
+<path d="m518 375 116-59h57l-17 59zm185-59h143l30 59H688z" fill="#7c99b4" opacity=".15"/>
+<path d="m985 381 54-3 160 20 24 21-209-7z" fill="#a34768"/>
+<path d="m257 438 240-45 497-2 235 50" fill="none" stroke="#d397ac" stroke-width="2"/>
+<path d="m263 481 231-41 493-8 233 26-5 36-209 23-516 13-235-25z" fill="#2c1429" opacity=".7"/>
+<path d="m288 469 176-24-3 20-168 21z" fill="#d5e6f2"/>
+<path d="m290 472 171-23" stroke="#fff" stroke-width="3"/>
+<path d="m1164 431 64 10-4 14-61-10" fill="#e393a8"/>
+<path d="m251 497 227-24-8 36-204 10z" fill="#090d17"/>
+<path d="m277 504 172-17" stroke="#697891" stroke-width="3"/>
+<path d="m545 398-22 89m356-89 18 86m-355 2 352-8" fill="none" stroke="#b36e89" stroke-opacity=".6"/>
+<path d="m651 399h112l-13 75H637z" fill="#d7cbd2"/><text x="656" y="455" fill="#342038" font-family="Arial,Helvetica,sans-serif" font-size="61" font-weight="900" font-style="italic">61</text>
+<path d="m555 492 331-8-8 13-328 9z" fill="#c0a1b3"/>
+<path d="m586 393-23-17-30 4-1 13 51 8z" fill="#2b172c" stroke="#b37691"/>
+<ellipse cx="482" cy="497" rx="76" ry="78" fill="#090d18"/><ellipse cx="482" cy="497" rx="64" ry="69" fill="url(#wheel)"/>
+<ellipse cx="1042" cy="479" rx="73" ry="76" fill="#090d18"/><ellipse cx="1042" cy="479" rx="61" ry="67" fill="url(#wheel)"/>
+<g stroke="#a6a8b6" stroke-width="5"><path d="m482 446v102m-45-76 90 50m-90 0 90-50M1042 430v98m-43-73 86 48m-86 0 86-48"/></g>
+<ellipse cx="482" cy="497" rx="12" ry="13" fill="#7a2c4b"/><ellipse cx="1042" cy="479" rx="12" ry="13" fill="#7a2c4b"/>
+<path d="m220 518 183 22m161-5 393-11m158-10 119-16" stroke="#121b2c" stroke-width="10"/>
 </g>
-</svg>
+<rect x="48" y="592" width="1344" height="1" fill="#8492ab" opacity=".3"/>
+<text x="49" y="625" fill="#eee4e9" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="4">BUILD SOMETHING WORTH DRIVING.</text>
+<text x="49" y="653" fill="#8695ad" font-family="Consolas,monospace" font-size="11" letter-spacing="2">DHBW STUDENT / C &amp; JAVA / ALWAYS IN PROGRESS</text>
+<rect x="1296" y="611" width="96" height="24" fill="url(#check)"/>
+<text x="1392" y="656" text-anchor="end" fill="#aa7e95" font-family="Consolas,monospace" font-size="10" letter-spacing="2">EDITION 061</text>
+</g></svg>
