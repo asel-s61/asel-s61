@@ -1,28 +1,17 @@
-﻿<p>
-  <img src="./assets/grid-banner.svg" alt="Asel — a little code, a little motorsport, a lot of curiosity." width="100%" />
+﻿<p align="center">
+  <img src="./assets/grid-banner.svg" alt="ASEL 61 — Midnight Club. Custom Bordeaux GT race car on a midnight blue motorsport poster." width="100%" />
 </p>
 
-<br />
-
-Hey, I'm **Asel** — a student at **DHBW**, learning by building.
-
-Mostly **C & Java**, university projects, and whatever catches my curiosity.
+<p align="center"><strong>Asel.</strong> DHBW student. Into code &amp; motorsport.<br /><sub>Currently learning C &amp; Java. Building things and figuring them out.</sub></p>
 
 <br />
 
-#### Selected work
+<p>
+  <a href="https://github.com/asel-s61/asel_c_dhbw_students_2025"><img src="./assets/project-c.svg" alt="01 — C / DHBW. Open C coursework repository." width="32%" /></a>
+  <a href="https://github.com/asel-s61/dhbw-java-2020"><img src="./assets/project-java.svg" alt="02 — Java / DHBW. Open Java learning repository." width="32%" /></a>
+  <a href="https://github.com/asel-s61/Scientific_Programming_Lab"><img src="./assets/project-lab.svg" alt="03 — Scientific Programming Lab. Open repository." width="32%" /></a>
+</p>
 
-[**01 &nbsp; C / DHBW**](https://github.com/asel-s61/asel_c_dhbw_students_2025) &nbsp; ↗  
-C programming coursework and exercises.
+<p align="center"><sub>C &nbsp; / &nbsp; JAVA &nbsp; / &nbsp; GIT &nbsp; / &nbsp; GITHUB</sub></p>
 
-[**02 &nbsp; Java / DHBW**](https://github.com/asel-s61/dhbw-java-2020) &nbsp; ↗  
-My Java learning repository.
-
-[**03 &nbsp; Scientific Programming Lab**](https://github.com/asel-s61/Scientific_Programming_Lab) &nbsp; ↗  
-My scientific programming workspace.
-
-<br />
-
----
-
-<sub>Always a work in progress. &nbsp; / &nbsp; [All repositories ↗](https://github.com/asel-s61?tab=repositories)</sub>
+<p align="center"><a href="https://github.com/asel-s61?tab=repositories"><strong>Explore the garage ↗</strong></a></p>
