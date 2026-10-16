@@ -1,16 +1,46 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/grid-banner.svg" alt="ASEL 61 — Code. Race. Repeat. Racing-inspired developer profile" width="100%" />
+</p>
 
-<!--
-**asel-s61/asel-s61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>DHBW STUDENT &nbsp; / &nbsp; CODE ENTHUSIAST &nbsp; / &nbsp; RACING MINDSET</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/asel-s61?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_THE_GARAGE-C8FF00?style=for-the-badge&amp;logo=github&amp;logoColor=10120D" alt="Explore my repositories" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/DRIVER_NO.-61-FF3B30?style=for-the-badge&amp;labelColor=161B22" alt="Driver number 61" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### `01 / DRIVER BRIEFING`
+
+Hey, I'm **Asel**. I study at **DHBW**, write code, and like things with a little horsepower.
+
+This is my garage for university projects, experiments, and everything I learn along the way. The approach: build it, understand it, make it better. One lap at a time.
+
+> **Clean lines. Better code. Always chasing the next lap.**
+
+### `02 / UNDER THE HOOD`
+
+<p>
+  <img src="https://img.shields.io/badge/C-161B22?style=for-the-badge&amp;logo=c&amp;logoColor=C8FF00" alt="C" />
+  <img src="https://img.shields.io/badge/JAVA-161B22?style=for-the-badge&amp;logo=openjdk&amp;logoColor=C8FF00" alt="Java" />
+  <img src="https://img.shields.io/badge/GIT-161B22?style=for-the-badge&amp;logo=git&amp;logoColor=FF3B30" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub" />
+</p>
+
+### `03 / THE GARAGE`
+
+| Project | Inside the garage |
+| :--- | :--- |
+| [**C / DHBW** ↗](https://github.com/asel-s61/asel_c_dhbw_students_2025) | My C programming coursework. |
+| [**Java / DHBW** ↗](https://github.com/asel-s61/dhbw-java-2020) | My Java learning repository. |
+| [**Scientific Programming Lab** ↗](https://github.com/asel-s61/Scientific_Programming_Lab) | My scientific programming workspace. |
+
+---
+
+<p align="center">
+  <img src="./assets/finish-line.svg" alt="Built with curiosity. Driven by progress. ASEL / 61" width="100%" />
+</p>
