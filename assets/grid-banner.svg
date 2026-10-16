@@ -1,27 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="450" viewBox="0 0 1280 450" role="img" aria-labelledby="title desc">
-  <title id="title">Asel 61 — Code. Race. Repeat.</title>
-  <desc id="desc">Dark motorsport livery with lime lettering, red speed stripes, a circuit outline and racing number 61.</desc>
-  <defs>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
-    <pattern id="checker" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M0 0h16v16H0zM16 16h16v16H16z" fill="#c8ff00"/></pattern>
-    <linearGradient id="surface" x2="1" y2="1"><stop stop-color="#151c22"/><stop offset="1" stop-color="#090c10"/></linearGradient>
-  </defs>
-  <rect width="1280" height="450" rx="18" fill="url(#surface)"/>
-  <rect width="1280" height="450" rx="18" fill="url(#grid)"/>
-  <path d="M1000 0h100L870 450H770z" fill="#c8ff00" opacity=".055"/>
-  <path d="M1140 0h20L930 450h-20z" fill="#c8ff00" opacity=".14"/>
-  <path d="M1205 0h10L985 450h-10z" fill="#ff3b30" opacity=".8"/>
-  <path d="M860 150c25-55 67-58 103-35l79 48c25 15 51 13 75-10 33-32 72-17 66 13-6 28-60 36-75 68l-23 49c-17 39-69 47-97 15l-42-48c-18-20-37-20-60-14-54 14-55-31-26-86Z" fill="none" stroke="#c8ff00" stroke-width="3" opacity=".2"/>
-  <circle cx="866" cy="140" r="5" fill="#ff3b30"/>
-  <rect x="48" y="36" width="6" height="16" fill="#c8ff00"/>
-  <text x="68" y="49" fill="#c8ff00" font-family="Consolas,monospace" font-size="13" letter-spacing="4">PERSONAL GARAGE / EST. 61</text>
-  <text x="48" y="207" fill="#f5f7f8" font-family="Arial,Helvetica,sans-serif" font-size="142" font-weight="900" letter-spacing="-9">ASEL<tspan fill="#c8ff00">.</tspan></text>
-  <text x="55" y="266" fill="#c8ff00" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="800" letter-spacing="7">CODE. RACE. REPEAT.</text>
-  <path d="M56 301h63l-9 9H47z" fill="#ff3b30"/>
-  <path d="M129 301h24l-9 9h-24zM163 301h24l-9 9h-24z" fill="#ff3b30" opacity=".55"/>
-  <text x="55" y="350" fill="#a1acb8" font-family="Consolas,monospace" font-size="16" letter-spacing="2">DHBW STUDENT / BUILDING MY OWN RACING LINE</text>
-  <text x="930" y="345" fill="#c8ff00" font-family="Arial,Helvetica,sans-serif" font-size="220" font-style="italic" font-weight="900" letter-spacing="-18">61</text>
-  <path d="M48 391h1184" stroke="#313941"/>
-  <text x="49" y="420" fill="#7c8996" font-family="Consolas,monospace" font-size="12" letter-spacing="3">ASEL-S61 / DEVELOPER IN PROGRESS</text>
-  <rect x="1136" y="403" width="96" height="16" fill="url(#checker)"/>
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+<title id="title">ASEL / 61 — Midnight Motorsport</title>
+<desc id="desc">Midnight navy and Bordeaux racing livery, silver typography, circuit linework and a large outlined driver number 61.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#15243f"/><stop offset=".55" stop-color="#0b1426"/><stop offset="1" stop-color="#060c18"/></linearGradient>
+ <linearGradient id="wine"><stop stop-color="#49152b"/><stop offset=".55" stop-color="#861f40"/><stop offset="1" stop-color="#b84966"/></linearGradient>
+ <linearGradient id="silver" x2=".4" y2="1"><stop stop-color="#ffffff"/><stop offset=".5" stop-color="#d9e1ec"/><stop offset="1" stop-color="#8093ae"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#a42b50" stop-opacity=".3"/><stop offset="1" stop-color="#a42b50" stop-opacity="0"/></radialGradient>
+ <pattern id="mesh" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 8 8 0" stroke="#ffffff" stroke-opacity=".025"/></pattern>
+ <pattern id="check" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M0 0h10v10H0zM10 10h10v10H10z" fill="#d1dbea"/></pattern>
+ <clipPath id="frame"><rect width="1280" height="480" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+ <rect width="1280" height="480" fill="url(#bg)"/>
+ <ellipse cx="1070" cy="180" rx="520" ry="360" fill="url(#glow)"/>
+ <rect width="1280" height="480" fill="url(#mesh)"/>
+ <path d="M1050-40h230L975 520H745z" fill="url(#wine)"/>
+ <path d="M1018-40h9L722 520h-9z" fill="#bd5771" opacity=".65"/>
+ <path d="M1290-40h22L1007 520h-22z" fill="#c4d0e0" opacity=".7"/>
+ <path d="M785 127c24-45 61-52 94-28l67 49c25 19 58 12 81-13 29-32 66-16 59 13-7 32-52 33-67 66l-23 51c-17 37-61 42-87 11l-38-45c-18-21-37-19-58-14-46 11-56-27-28-90Z" fill="none" stroke="#e4c1cc" stroke-width="2" opacity=".2"/>
+ <circle cx="790" cy="119" r="4" fill="#e9c4d0"/>
+ <path d="M48 43h23" stroke="#bc5877" stroke-width="4"/>
+ <text x="84" y="48" fill="#c6cfdf" font-family="Consolas,monospace" font-size="12" letter-spacing="4">INDEPENDENT MIND. RACING SOUL.</text>
+ <text x="1230" y="48" text-anchor="end" fill="#bd8fa2" font-family="Consolas,monospace" font-size="11" letter-spacing="3">MIDNIGHT SERIES / 061</text>
+ <text x="43" y="224" fill="url(#silver)" font-family="Arial,Helvetica,sans-serif" font-size="154" font-weight="900" letter-spacing="-9">ASEL<tspan fill="#b04a69">.</tspan></text>
+ <text x="53" y="277" fill="#dbbdca" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" letter-spacing="7">CODE. RACE. REPEAT.</text>
+ <path d="M54 311h55l-7 7H47zM119 311h24l-7 7h-24zM153 311h24l-7 7h-24z" fill="#a83d5d"/>
+ <text x="52" y="354" fill="#9aaac2" font-family="Consolas,monospace" font-size="14" letter-spacing="2">DHBW STUDENT / BUILDING MY OWN RACING LINE</text>
+ <text x="871" y="361" fill="#0c1528" fill-opacity=".28" stroke="#e1c0cb" stroke-width="2" font-family="Arial,Helvetica,sans-serif" font-size="250" font-weight="900" font-style="italic" letter-spacing="-18">61</text>
+ <text x="1061" y="395" text-anchor="middle" fill="#eedbe2" font-family="Consolas,monospace" font-size="11" letter-spacing="6">DRIVER / DEVELOPER</text>
+ <path d="M48 421h1184" stroke="#9eacc4" stroke-opacity=".25"/>
+ <text x="49" y="452" fill="#93a3bb" font-family="Consolas,monospace" font-size="11" letter-spacing="3">ASEL-S61</text>
+ <text x="640" y="452" text-anchor="middle" fill="#b88c9f" font-family="Consolas,monospace" font-size="11" letter-spacing="3">PRECISION IS A MINDSET.</text>
+ <rect x="1152" y="437" width="80" height="20" fill="url(#check)" opacity=".75"/>
+</g>
 </svg>
