@@ -1,5 +1,5 @@
-﻿<p align="center">
-  <img src="./assets/grid-banner.svg" alt="ASEL 61 — Midnight Club. Custom Bordeaux widebody Mustang-inspired racer with a huge wing and animated exhaust flames on a midnight blue motorsport poster." width="100%" />
+<p align="center">
+  <img src="./assets/mustang-banner.svg" alt="ASEL 61 — Midnight Club. Custom Bordeaux widebody Mustang-inspired racer with a huge wing and animated exhaust flames on a midnight blue motorsport poster." width="100%" />
 </p>
 
 <p>
